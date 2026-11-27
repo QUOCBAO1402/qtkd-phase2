@@ -2,7 +2,7 @@
 
 Project **ASP.NET Core Web API (.NET 10)** kết nối **PostgreSQL** bằng **Entity Framework Core**, xây dựng nền tảng cho hệ thống Quản trị Kinh doanh (Công ty ABC — dịch vụ logistics & khai thác cảng).
 
-- **Git Repository:** *(Cập nhật link GitHub/GitLab cá nhân sau khi push)*
+- **Git Repository:** https://github.com/QUOCBAO1402/qtkd-phase2
 - **Công nghệ:** C# · .NET 10 · ASP.NET Core Web API · EF Core 10 · PostgreSQL · Swagger (Swashbuckle)
 - **Phạm vi Tuần 05:** Khởi tạo solution phân tầng (`Controllers → Services → Repositories → QtkdDbContext → PostgreSQL`), tạo 4 entity (`Customer`, `Contract`, `PriceList`, `PriceItem`), migration `InitialCreate`, dữ liệu mẫu và API đọc dữ liệu.
 
